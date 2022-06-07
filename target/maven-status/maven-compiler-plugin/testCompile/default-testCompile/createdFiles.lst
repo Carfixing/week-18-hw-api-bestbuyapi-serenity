@@ -1,0 +1,10 @@
+com\bestbuyapi\storesinfo\StoresCURDtestWithSteps.class
+com\bestbuyapi\testbase\UtilitiesTestBase.class
+com\bestbuyapi\utilitiesinfo\UtilitiesCURDTestWithSteps.class
+com\bestbuyapi\testbase\ProductsTestBase.class
+com\bestbuyapi\testbase\ServicesTestBase.class
+com\bestbuyapi\testbase\CategoriesTestBase.class
+com\bestbuyapi\producstinfo\ProductsCURDTestWithSteps.class
+com\bestbuyapi\testbase\StoresTestBase.class
+com\bestbuyapi\categoriesinfo\categoriesCURDTestWithSteps.class
+com\bestbuyapi\servicesinfo\ServicesCURDtestWithSteps.class
